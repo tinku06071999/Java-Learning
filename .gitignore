@@ -1,0 +1,16 @@
+#intelliJ IDEA
+
+.idea/
+*.iml
+out/
+
+#Java
+*.class
+
+#OS files
+.DS_Store
+Thumb.db
+
+#Project folder that I dont want to uplaod in this repository
+Sprinboot Learning
+PromoDoro

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4aa837b2-95b8-49cf-8897-1255e8a5d73a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/SharedResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/tiverma/OneDrive - Capgemini/Desktop/IdeaProjects/MutltiThreadings" value="2wEEHkcB2jXPP1DQ1vVmGfjNkki" />
+    </persistenceIdMap>
+  </component>
+  <component name="DBNavigator.Project.Workspace.Settings">
+    <assistant-settings>
+      <credential-settings>
+        <credentials />
+      </credential-settings>
+      <profile-settings>
+        <profiles />
+      </profile-settings>
+      <mcp-server-settings>
+        <workspace-integration value="false" />
+        <mcp-servers />
+        <mcp-tool-approvals />
+      </mcp-server-settings>
+    </assistant-settings>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tinku06071999&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tinku06071999/Java-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;89622cdd-e805-4959-98e9-cc6241811ef7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wEEHkcB2jXPP1DQ1vVmGfjNkki" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AnimalMutiThreadDemo.executor": "Run",
+    "Application.CallableRunner.executor": "Run",
+    "Application.ExecuterServiceRunner.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultipleCallableRunner.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.ReadWriteLockCounter.executor": "Run",
+    "Application.ReadWriteLockExample (1).executor": "Run",
+    "Application.ReadWriteLockExample.executor": "Run",
+    "Application.ReentrantLockExample.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.ThreadBasicRunner (1).executor": "Run",
+    "Application.ThreadBasicRunner (2).executor": "Run",
+    "Application.ThreadBasicRunner (3).executor": "Run",
+    "Application.ThreadBasicRunner.executor": "Run",
+    "Application.ThreadCommunication (1).executor": "Run",
+    "Application.ThreadCommunication (2).executor": "Run",
+    "Application.ThreadCommunication (3).executor": "Run",
+    "Application.ThreadCommunication (4).executor": "Run",
+    "Application.ThreadCommunication (5).executor": "Run",
+    "Application.ThreadCommunication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tiverma/OneDrive - Capgemini/Desktop/IdeaProjects/MutltiThreadings",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/tiverma/IdeaProjects/MutltiThreadings/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="MutltiThreadings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadCommunication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadCommunication" />
+      <module name="MutltiThreadings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadCommunication (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadCommunication" />
+      <module name="MutltiThreadings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadCommunication (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadCommunication" />
+      <module name="MutltiThreadings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadCommunication (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadCommunication" />
+      <module name="MutltiThreadings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.ThreadCommunication (1)" />
+        <item itemvalue="Application.ThreadCommunication (5)" />
+        <item itemvalue="Application.ThreadCommunication (4)" />
+        <item itemvalue="Application.ThreadCommunication (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aa837b2-95b8-49cf-8897-1255e8a5d73a" name="Changes" comment="" />
+      <created>1745598247573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745598247573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AnimalMutiThreadDemo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
